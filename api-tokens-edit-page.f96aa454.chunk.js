@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcms_palmeiras=self.webpackChunkcms_palmeiras||[]).push([[92],{28465:(P,s,e)=>{e.r(s),e.d(s,{default:()=>a});var t=e(67294),E=e(95489),i=e.n(E),_=e(87751),n=e(24583);const a=()=>t.createElement(E.CheckPagePermissions,{permissions:_.Z.settings["api-tokens"].read},t.createElement(n.Z,null))}}]);
