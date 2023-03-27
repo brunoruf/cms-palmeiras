@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcms_palmeiras=self.webpackChunkcms_palmeiras||[]).push([[2492],{9452:(r,s,e)=>{e.r(s),e.d(s,{default:()=>a});var t=e(67294),n=e(95489),P=e.n(n),E=e(87751),_=e(53219);const a=()=>t.createElement(n.CheckPagePermissions,{permissions:E.Z.settings["transfer-tokens"].read},t.createElement(_.Z,null))}}]);
